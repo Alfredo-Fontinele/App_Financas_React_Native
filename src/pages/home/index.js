@@ -25,8 +25,7 @@ export default function Home() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    width: '100%'
+    flex: 1
   },
   title: {
     fontSize: 18,
